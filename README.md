@@ -5,11 +5,10 @@ I'm Dirie Hersi, an aspiring cloud engineer pivoting from the field of education
 Find out more about me & feel free to connect with me here:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Omar%20Egal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-egal/)](https://www.linkedin.com/in/omar-egal/)
-[![Medium Badge](https://img.shields.io/badge/Omar%20Egal-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@omar.egal/)](https://medium.com/@omar.egal/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dirie%20Hersi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dirie-hersi)](https://ww.linkedin.com/in/dirie-hersi/)
-[![Medium Badge](https://img.shields.io/badge/Dirie%20Hersi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dndhersi)](https://medium.com/@dndhersi)
+
+[![Medium Badge](https://img.shields.io/badge/Dirie%20Hersi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dndhersi)](https://medium.com/@dndhersi/)
 
 
 ## ⚡ Technologies
