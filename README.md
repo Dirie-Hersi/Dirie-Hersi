@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dirie Hersi, an aspiring cloud engineer pivoting from the field of education. I'm interested in all things cloud, particularly DevOps. 
+I'm Dirie Hersi, an aspiring Cloud Engineer pivoting from the field of Education. I'm interested in all things cloud, particularly DevOps. 
 
 Find out more about me & feel free to connect with me here:
 
