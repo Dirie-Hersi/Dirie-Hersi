@@ -6,7 +6,7 @@ Find out more about me & feel free to connect with me here:
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dirie%20Hersi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diriehersi)](https://ww.linkedin.com/in/diriehersi/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dirie%20Hersi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diriehersi)](www.linkedin.com/in/diriehersi)
 
 [![Medium Badge](https://img.shields.io/badge/Dirie%20Hersi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dndhersi)](https://medium.com/@dndhersi/)
 
